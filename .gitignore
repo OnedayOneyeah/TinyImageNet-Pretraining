@@ -1,0 +1,7 @@
+*.pkl
+weights/
+weights_new/
+weights_parallel/
+*.ipynb
+__pycache__/
+hehe.py
